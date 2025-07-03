@@ -190,6 +190,14 @@ b{
     width: 100%;
 
  }
+
+ img {
+        margin-top: -4rem;
+        width: 100%;
+        display: block;
+        height: auto;
+        border-radius: 0px;
+    }
   .main {
     margin: 2rem auto 0 auto; 
     padding: 0 auto;
